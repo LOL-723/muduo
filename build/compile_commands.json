@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Acceptor.cc.o -c /home/sorrow/Desktop/muduo/src/Acceptor.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Acceptor.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Buffer.cc.o -c /home/sorrow/Desktop/muduo/src/Buffer.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Buffer.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Channel.cc.o -c /home/sorrow/Desktop/muduo/src/Channel.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Channel.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/CurrentThread.cc.o -c /home/sorrow/Desktop/muduo/src/CurrentThread.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/CurrentThread.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/EPollPoller.cc.o -c /home/sorrow/Desktop/muduo/src/EPollPoller.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/EPollPoller.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/EventLoop.cc.o -c /home/sorrow/Desktop/muduo/src/EventLoop.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/EventLoop.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/EventLoopThread.cc.o -c /home/sorrow/Desktop/muduo/src/EventLoopThread.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/EventLoopThread.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/EventLoopThreadPool.cc.o -c /home/sorrow/Desktop/muduo/src/EventLoopThreadPool.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/EventLoopThreadPool.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/InetAddress.cc.o -c /home/sorrow/Desktop/muduo/src/InetAddress.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/InetAddress.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Logger.cc.o -c /home/sorrow/Desktop/muduo/src/Logger.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Logger.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Poller.cc.o -c /home/sorrow/Desktop/muduo/src/Poller.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Poller.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Socket.cc.o -c /home/sorrow/Desktop/muduo/src/Socket.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Socket.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/TcpConnection.cc.o -c /home/sorrow/Desktop/muduo/src/TcpConnection.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/TcpConnection.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/TcpServer.cc.o -c /home/sorrow/Desktop/muduo/src/TcpServer.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/TcpServer.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Thread.cc.o -c /home/sorrow/Desktop/muduo/src/Thread.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Thread.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/src",
+  "command": "/usr/bin/g++ -Dmuduo_core_EXPORTS -I/home/sorrow/Desktop/muduo/include -g -fPIC -std=gnu++11 -o CMakeFiles/muduo_core.dir/Timestamp.cc.o -c /home/sorrow/Desktop/muduo/src/Timestamp.cc",
+  "file": "/home/sorrow/Desktop/muduo/src/Timestamp.cc"
+},
+{
+  "directory": "/home/sorrow/Desktop/muduo/build/example",
+  "command": "/usr/bin/g++  -I/home/sorrow/Desktop/muduo/include -g -std=c++11 -Wall -std=gnu++11 -o CMakeFiles/testserver.dir/testserver.cc.o -c /home/sorrow/Desktop/muduo/example/testserver.cc",
+  "file": "/home/sorrow/Desktop/muduo/example/testserver.cc"
+}
+]
